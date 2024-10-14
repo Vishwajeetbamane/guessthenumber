@@ -8,4 +8,3 @@ You will have to import random module to generate random number for guessing.
  4.You can only 5 numbers.
  5.If your all guesses goes wrong then Try Again!!
  6.If you guess correct number then Congratulations!!You Won!!
- 
